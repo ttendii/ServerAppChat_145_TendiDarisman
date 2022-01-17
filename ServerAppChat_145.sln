@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAppChat_145", "ServerAppChat_145\ServerAppChat_145.csproj", "{5C11F961-6B0B-4592-B96C-4B51FB117188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C11F961-6B0B-4592-B96C-4B51FB117188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C11F961-6B0B-4592-B96C-4B51FB117188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C11F961-6B0B-4592-B96C-4B51FB117188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C11F961-6B0B-4592-B96C-4B51FB117188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4069D620-8EBC-4E98-A1DF-C9C7BA617B00}
+	EndGlobalSection
+EndGlobal
